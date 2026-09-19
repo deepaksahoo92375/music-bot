@@ -1,0 +1,10 @@
+kurigram>=2.2.0
+py-tgcalls>=2.2.11
+aiohttp>=3.10.0
+tgcrypto>=1.2.5
+isodate>=0.6.1
+pillow>=10.4.0
+psutil>=6.0.0
+python-dotenv>=1.0.1
+aiofiles>=24.1.0
+yt-dlp>=2025.1.0
