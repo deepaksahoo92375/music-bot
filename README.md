@@ -8,7 +8,6 @@ The VPS is the actual playback host. Railway is not required for an active Voice
 
 ## Minimum requirements
 
-- Ubuntu VPS
 - Python 3.11+
 - FFmpeg
 - Telegram Bot token
